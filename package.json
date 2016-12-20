@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "An Inquirer extension to allow users to select entries in a list and order the list before processing.",
   "main": "index.js",
+  "repository":"https://github.com/ChrisPhillips-cminion/inquirer-orderedcheckbox",
   "scripts": {
     "test": "node_modules/.bin/_mocha test/spec",
     "preversion": "npm test",

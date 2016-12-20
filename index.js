@@ -1,5 +1,7 @@
 /**
+ *  This was based on the original inquirer checkbox prompt
  * `list` type prompt
+ * 
  */
 
 var _ = require('lodash');
